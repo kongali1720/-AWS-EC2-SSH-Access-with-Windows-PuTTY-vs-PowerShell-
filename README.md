@@ -50,6 +50,12 @@ Ketika meluncurkan **EC2 Instance di AWS**, Amazon memberikan **Key Pair** berup
 
 ---
 
+<div align="center">
+  <img src="https://github.com/kongali1720/-AWS-EC2-SSH-Access-with-Windows-PuTTY-vs-PowerShell-/blob/main/PuTTY%20(2).png?raw=true" alt="PuTTY Screenshot" width="600">
+</div>
+
+---
+
 ## 🖥️ 1. Menggunakan PowerShell (lebih simpel)
 
 ### ✅ Langkah-langkah
